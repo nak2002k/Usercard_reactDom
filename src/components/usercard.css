@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@700&display=swap');
+.cards {
+    background-color: bisque;
+    display: flex;
+    border: 7px solid black;
+    padding: 1rem;
+    margin: 1rem;
+    justify-content: space-around;
+    justify-content: space-evenly;
+    font-family: 'Roboto Mono', monospace;
+
+    align-items: center;
+
+}
+#lol{
+    border-radius: 55px !important;
+}
